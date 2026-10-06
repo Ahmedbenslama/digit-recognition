@@ -1,0 +1,7 @@
+torch
+torchvision
+numpy>=1.24.0
+matplotlib>=3.8.0
+pillow>=10.0.0
+streamlit>=1.30.0
+streamlit-drawable-canvas>=0.9.3
